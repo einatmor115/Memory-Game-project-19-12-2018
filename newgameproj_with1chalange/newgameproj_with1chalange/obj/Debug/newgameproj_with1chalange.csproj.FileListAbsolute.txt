@@ -1,0 +1,7 @@
+C:\Users\einat\source\repos\newgameproj_with1chalange\newgameproj_with1chalange\bin\Debug\newgameproj_with1chalange.exe.config
+C:\Users\einat\source\repos\newgameproj_with1chalange\newgameproj_with1chalange\bin\Debug\newgameproj_with1chalange.exe
+C:\Users\einat\source\repos\newgameproj_with1chalange\newgameproj_with1chalange\bin\Debug\newgameproj_with1chalange.pdb
+C:\Users\einat\source\repos\newgameproj_with1chalange\newgameproj_with1chalange\obj\Debug\newgameproj_with1chalange.csprojAssemblyReference.cache
+C:\Users\einat\source\repos\newgameproj_with1chalange\newgameproj_with1chalange\obj\Debug\newgameproj_with1chalange.csproj.CoreCompileInputs.cache
+C:\Users\einat\source\repos\newgameproj_with1chalange\newgameproj_with1chalange\obj\Debug\newgameproj_with1chalange.exe
+C:\Users\einat\source\repos\newgameproj_with1chalange\newgameproj_with1chalange\obj\Debug\newgameproj_with1chalange.pdb
